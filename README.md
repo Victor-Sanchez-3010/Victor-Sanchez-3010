@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Victor-Sanchez-3010
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# ![yo](/img/presentacion.png)
 
-<!---
-Victor-Sanchez-3010/Victor-Sanchez-3010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🕹️ Videogame Engineer
+- 🧪 See me in [GitHub](https://github.com/Victor-Sanchez-3010)
+- 📷 Reach me on [Instagram](https://www.instagram.com/victor_schz04/)
+- ▶️ My [YouTube](https://www.youtube.com/channel/UC4026C62YmLh1RSExcBouow)
