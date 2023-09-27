@@ -1,4 +1,4 @@
-# ![yo](/img/presentacion.png)
+# ![yo](./docs/img/presentacion.png)
 
 - 🕹️ Videogame Engineer
 - 🧪 See me in [GitHub](https://github.com/Victor-Sanchez-3010)
